@@ -23,11 +23,4 @@ An Anti-Sleep Alarm System, is designed to improve road safety by detecting driv
 3. If eyes remain closed for 4 seconds, the motor turns off.
 4. The system resets when the driver’s eyes reopen.
 
-## Setup Instructions
 
-1. Connect hardware components as per the provided code:
-   - sensorPin: Pin 2  
-   - buzzerPin: Pin 9  
-   - motorPin: Pin 8  
-2. Upload the Arduino code to the microcontroller.
-3. Power the system and begin monitoring.
